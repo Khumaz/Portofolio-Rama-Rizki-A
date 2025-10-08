@@ -24,7 +24,7 @@ body {
     font-family: 'Inter', sans-serif;
     color: var(--text-light);
     line-height: 1.6;
-    background-image: url('images/sky.jpg');
+    background-image: url('sky.jpg');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -205,7 +205,7 @@ h2 {
 /* --- Projects Section --- */
 #projects {
     background-color: var(--bg-dark-primary);
-    background-image: url('images/forest.jpg');
+    background-image: url('forest.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
